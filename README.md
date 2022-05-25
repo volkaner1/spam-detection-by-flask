@@ -10,7 +10,9 @@ Due to the nature of supervised learning, you need a labeled dataset to solve th
 According to number of each words that is labeled spam or ham, you can classify your text is spam or ham.
 
 ### <u>Texp Pre-Process</u>
-
+<p align="left">
+  <img src="img/text-preprocessing.PNG" width="600" title="text-preprocessing">
+</p>
 
 ### <u>Tokenizer and Vectorizer</u>
 ```
