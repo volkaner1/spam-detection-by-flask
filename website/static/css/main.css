@@ -1,0 +1,30 @@
+nav {
+    background-color: #e3f2fd;
+}
+#mainBlock{
+    margin-top: 30px;
+    
+}
+
+p{
+    margin-bottom: 0px;
+}
+
+#enterText{
+    margin-top: 30px;
+}
+
+#button{
+    margin-top: 10px;
+}
+
+.bg-warning{
+    --bs-bg-opacity:.5;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#nameSurname{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
